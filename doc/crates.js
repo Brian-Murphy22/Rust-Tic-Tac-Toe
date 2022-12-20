@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["tic_tac_toe"];
